@@ -4,13 +4,13 @@ In this exercise, we are following the mouse cursor to move two images in order 
 
 
 ## How to Run
-Clone the repository
-Open index.html in your browser
+1. Clone the repository
+2. Open index.html in your browser
 
 
 ## Roadmap
-Add 'eyelid' animations
-Add animation when mouse is moved on top of an 'eye'
+* Add 'eyelid' animations
+* Add animation when mouse is moved on top of an 'eye'
 
 
 ## License
