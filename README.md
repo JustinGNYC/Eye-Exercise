@@ -1,6 +1,6 @@
 # Eye Exercise
 In this exercise, we are following the mouse cursor to move two images in order to make it look like 'eyes' following the mouse as you move it around the screen.
-<img src="images/PacMan1.png" width='300'/>
+<img src= "oneeye.png" width='300'/>
 
 
 ## How to Run
